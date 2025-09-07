@@ -1,0 +1,15 @@
+CE;4161030;Felipe;Cruz Herrera
+CC;54147868;Fernando;López Ruiz
+TI;1415227911;Andrea;Moreno García
+CC;66103932;Santiago Ricardo;Rubio Herrera
+TI;1184583149;Daniel;Rubio Gómez
+CC;97061237;Juliana;Medina Alvarez
+CE;5936946;Miguel;Iglesias Flores
+CC;73012206;Mauricio;Iglesias Castillo
+CC;95946350;Camila Natalia;Ramírez Medina
+TI;1389932898;Camila Carolina;Herrera Iglesias
+CC;48543144;Juliana;Delgado González
+CE;8295794;Andrés;Ruiz Gil
+TI;1311681606;María;Moreno Morales
+CE;7698593;Sofia;Aguilar Ruiz
+CE;7015334;Gabriela;Rodríguez Ruiz

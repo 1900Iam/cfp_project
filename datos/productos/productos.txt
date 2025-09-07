@@ -1,0 +1,25 @@
+PROD675;Lámpara LED Escritorio;3317000
+PROD679;Smartphone iPhone 13;3042000
+PROD929;Adaptador Ethernet USB;166000
+PROD586;Silla Ergonómica Oficina;1567000
+PROD404;Teclado Mecánico Gaming;3225000
+PROD455;Mousepad Gaming XL;2216000
+PROD752;Webcam HD 1080p;2650000
+PROD614;Router WiFi Dual Band;2341000
+PROD370;Organizador Escritorio;1238000
+PROD322;Parlantes Bluetooth JBL;2414000
+PROD826;Soporte Monitor Ajustable;3372000
+PROD913;Mouse Inalámbrico Logitech;1351000
+PROD779;Hub USB 3.0;2665000
+PROD584;Funda Laptop 15 Pulgadas;2570000
+PROD888;Impresora Multifuncional HP;3314000
+PROD537;Monitor LED 24 Pulgadas;1788000
+PROD111;Batería Externa 10000mAh;1463000
+PROD230;Adaptador HDMI VGA;2534000
+PROD551;Memoria USB 32GB;850000
+PROD269;Cable HDMI 2.0;3108000
+PROD794;Base Refrigerante;1563000
+PROD499;Tablet Samsung Galaxy;2684000
+PROD485;Disco Duro Externo 1TB;983000
+PROD979;Kit Limpiador Pantallas;1006000
+PROD789;Protector Pantalla Laptop;2225000
