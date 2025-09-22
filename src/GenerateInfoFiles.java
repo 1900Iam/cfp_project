@@ -23,7 +23,7 @@ import java.util.Set;
  * @author MAURICIO FIGUEREDO TORRES
  * @author SEBASTIAN GUTIERREZ ROJAS
  * @author WILLIAM CASTELLANOS CALDERÓN
- * @version 1.0
+ * @version v2.0.0
  */
 public class GenerateInfoFiles {
 
@@ -72,7 +72,7 @@ public class GenerateInfoFiles {
     private static List<String> idsProductos = new ArrayList<>();
 
     /**
-     * Método principal que coordina la generación de todos los archivos necesarios.
+     * Metodo principal que coordina la generación de todos los archivos necesarios.
      * Crea las carpetas necesarias y genera los archivos organizados por tipo.
      *
      * @param args argumentos de línea de comandos (no utilizados)
